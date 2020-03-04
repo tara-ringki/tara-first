@@ -1,3 +1,5 @@
 list of my goals:
 1. Know the way using git
 2. Do hardwork to make quick progress
+3. Learn Basic of Terminal Usage
+4. Learn the Data Structure and Algorithms 
